@@ -37,7 +37,7 @@ namespace Tyuiu.KorotkovNS.Sprint1.Task7.V12
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Z = " + Math.Round(ds.Calculate(x,y), 3));
+            Console.WriteLine("Z= " + Math.Round(ds.Calculate(x,y), 3));
             Console.ReadKey();
 
 
